@@ -15,6 +15,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 cat rosepine.txt >> ~/.bashrc
 ```
 
-### Screenshots
+### "Screenshots"
 
-It's kinda hard to take a screenshot of a tty, cuz ya know...
+At least you get to see my desk!
+![bruh moment](https://cdn.discordapp.com/attachments/767172954395639811/776229050804862976/IMG_20201111_153613.jpg)
