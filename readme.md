@@ -10,7 +10,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ## Usage
 
-Add `rosepine.txt` contents to your shell config
+Append the contents of `rosepine.txt` contents to your login shell config
 
 ```sh
 # If you use Bash + a bashrc
