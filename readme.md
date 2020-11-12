@@ -10,9 +10,9 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ## Usage
 
-Append the contents of `rosepine.txt` contents to your login shell config
+Append the contents of `rosepine.txt` contents to your login shell config.
 
-```sh
+```shhttps://github.com/DingShizhe/Desmos-Desktop
 # If you use Bash + a bashrc
 cat rosepine.txt >> ~/.bashrc
 
