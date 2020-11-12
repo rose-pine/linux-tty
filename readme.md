@@ -13,13 +13,13 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 Add `rosepine.txt` contents to your shell config
 
 ```sh
-# Bash
+# If you use Bash + a bashrc
 cat rosepine.txt >> ~/.bashrc
 
-# Zsh
+# If you exclusively use ZSH
 cat rosepine.txt >> ~/.zshrc
 
-# Fish
+# If you exclusively use Fish
 cat rosepine.txt >> ~/.config/fish/config.fish
 ```
 
