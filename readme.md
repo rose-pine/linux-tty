@@ -26,3 +26,7 @@ cat rosepine.txt >> ~/.config/fish/config.fish
 ## "Screenshots"
 
 ![Linux TTY with Rosé Pine](https://cdn.discordapp.com/attachments/767172954395639811/776229050804862976/IMG_20201111_153613.jpg)
+
+## Thanks to 
+
+- [ThatOneCalculator](https://github.com/thatonecalculator)
