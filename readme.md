@@ -18,9 +18,9 @@ Append the contents of `rose-pine.txt`, `rose-pine-dawn.txt` or `rose-pine-moon.
 **bash**
 
 ```sh
-cat rose-pine.txt >> ~/.bashrc
-cat rose-pine-dawn.txt >> ~/.bashrc
-cat rose-pine-moon.txt >> ~/.bashrc
+cat rose-pine.sh >> ~/.bashrc
+cat rose-pine-dawn.sh >> ~/.bashrc
+cat rose-pine-moon.sh >> ~/.bashrc
 ```
 
 **zsh**
