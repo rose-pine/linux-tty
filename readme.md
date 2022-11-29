@@ -26,9 +26,9 @@ cat rose-pine-moon.txt >> ~/.bashrc
 **zsh**
 
 ```sh
-cat rosepine.txt >> ~/.zshrc
-cat rosepine-dawn.txt >> ~/.zshrc
-cat rosepine-moon.txt >> ~/.zshrc
+cat rose-pine.sh >> ~/.zshrc
+cat rose-pine-dawn.sh >> ~/.zshrc
+cat rose-pine-moon.sh >> ~/.zshrc
 ```
 
 **fish**
