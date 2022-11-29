@@ -44,12 +44,15 @@ cat rosepine-moon.txt >> ~/.config/fish/config.fish
 Fetch featured below is [NerdFetch](https://github.com/ThatOneCalculator/nerdfetch)
 
 **Rosé Pine**
+
 ![Rosé Pine](https://raw.githubusercontent.com/prateektade/rose-pine-linux-tty/rose-pine-build-color-update/assets/Linux-TTY-Rosé-Pine.webp)
 
 **Rosé Pine Dawn**
+
 ![Rosé Pine](https://raw.githubusercontent.com/prateektade/rose-pine-linux-tty/rose-pine-build-color-update/assets/Linux-TTY-Rosé-Pine-Dawn.webp)
 
 **Rosé Pine Moon**
+
 ![Rosé Pine](https://raw.githubusercontent.com/prateektade/rose-pine-linux-tty/rose-pine-build-color-update/assets/Linux-TTY-Rosé-Pine-Moon.webp)
 
 ## Thanks to 
