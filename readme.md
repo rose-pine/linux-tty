@@ -37,15 +37,15 @@ Fetch featured below is [NerdFetch](https://github.com/ThatOneCalculator/nerdfet
 
 **Rosé Pine**
 
-![Rosé Pine with Linux TTY](https://raw.githubusercontent.com/prateektade/rose-pine-linux-tty/rose-pine-build-color-update/assets/Linux-TTY-Rosé-Pine.webp)
+![Rosé Pine with Linux TTY](https://user-images.githubusercontent.com/1474821/204648149-faa7414f-ba3e-4d52-9227-5f9f7d372bbd.jpg)
 
 **Rosé Pine Dawn**
 
-![Rosé Pine Dawn with Linux TTY](https://raw.githubusercontent.com/prateektade/rose-pine-linux-tty/rose-pine-build-color-update/assets/Linux-TTY-Rosé-Pine-Dawn.webp)
+![Rosé Pine Dawn with Linux TTY](https://user-images.githubusercontent.com/1474821/204648274-3226b537-3a6e-4976-a41d-3015e5d88cd2.jpg)
 
 **Rosé Pine Moon**
 
-![Rosé Pine Moon with Linux TTY](https://raw.githubusercontent.com/prateektade/rose-pine-linux-tty/rose-pine-build-color-update/assets/Linux-TTY-Rosé-Pine-Moon.webp)
+![Rosé Pine Moon with Linux TTY](https://user-images.githubusercontent.com/1474821/204648344-7d5276c2-00af-44d9-8e17-11a60362f54d.jpg)
 
 ## Thanks to 
 
