@@ -13,7 +13,7 @@
 
 ## Usage
 
-Append the contents of `rose-pine.txt`, `rose-pine-dawn.txt` or `rose-pine-moon.txt` contents to your login shell config as follows -
+Append the contents of `rose-pine.sh`, `rose-pine-dawn.sh` or `rose-pine-moon.sh` contents to your login shell config as follows -
 
 **bash**
 
@@ -31,29 +31,21 @@ cat rose-pine-dawn.sh >> ~/.zshrc
 cat rose-pine-moon.sh >> ~/.zshrc
 ```
 
-**fish**
-
-```sh
-cat rosepine.txt >> ~/.config/fish/config.fish
-cat rosepine-dawn.txt >> ~/.config/fish/config.fish
-cat rosepine-moon.txt >> ~/.config/fish/config.fish
-```
-
 ## Gallery
 
 Fetch featured below is [NerdFetch](https://github.com/ThatOneCalculator/nerdfetch)
 
 **Rosé Pine**
 
-![Rosé Pine](https://raw.githubusercontent.com/prateektade/rose-pine-linux-tty/rose-pine-build-color-update/assets/Linux-TTY-Rosé-Pine.webp)
+![Rosé Pine with Linux TTY](https://raw.githubusercontent.com/prateektade/rose-pine-linux-tty/rose-pine-build-color-update/assets/Linux-TTY-Rosé-Pine.webp)
 
 **Rosé Pine Dawn**
 
-![Rosé Pine](https://raw.githubusercontent.com/prateektade/rose-pine-linux-tty/rose-pine-build-color-update/assets/Linux-TTY-Rosé-Pine-Dawn.webp)
+![Rosé Pine Dawn with Linux TTY](https://raw.githubusercontent.com/prateektade/rose-pine-linux-tty/rose-pine-build-color-update/assets/Linux-TTY-Rosé-Pine-Dawn.webp)
 
 **Rosé Pine Moon**
 
-![Rosé Pine](https://raw.githubusercontent.com/prateektade/rose-pine-linux-tty/rose-pine-build-color-update/assets/Linux-TTY-Rosé-Pine-Moon.webp)
+![Rosé Pine Moon with Linux TTY](https://raw.githubusercontent.com/prateektade/rose-pine-linux-tty/rose-pine-build-color-update/assets/Linux-TTY-Rosé-Pine-Moon.webp)
 
 ## Thanks to 
 
