@@ -13,7 +13,17 @@
 
 ## Usage
 
-Append the contents of `rose-pine.sh`, `rose-pine-dawn.sh` or `rose-pine-moon.sh` contents to your login shell config as follows -
+### System-wide (including boot & pre-login)
+
+1. Install [dracut-colors](https://github.com/mxfm/dracut-colors) or [mkinitcpio-colors](https://github.com/EvanPurkhiser/mkinitcpio-colors) depending on what initramfs tool you use (if unusure, check if `dracut` is installed, as most modern Linux distros use this).
+2. Append the contents of `rose-pine.conf`, `rose-pine-dawn.conf` or `rose-pine-moon.conf` to `/etc/vconsole.conf`
+3. Rebuild your initramfs
+    - For `dracut`, run `sudo dracut -i --force`
+    - For `mkinitcpio`, run `sudo mkinitcpio -P` 
+
+### Userspace
+
+Append the contents of `rose-pine.sh`, `rose-pine-dawn.sh` or `rose-pine-moon.sh` contents to your login shell's confi:
 
 **bash**
 
