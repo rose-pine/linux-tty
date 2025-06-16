@@ -13,7 +13,25 @@
 
 ## Usage
 
-Append the contents of `rose-pine.sh`, `rose-pine-dawn.sh` or `rose-pine-moon.sh` contents to your login shell config as follows -
+### System-wide (including boot & pre-login)
+
+1. Install [dracut-colors](https://github.com/mxfm/dracut-colors) or [mkinitcpio-colors](https://github.com/EvanPurkhiser/mkinitcpio-colors) depending on what initramfs tool you use (if unusure, check if `dracut` is installed, as most modern Linux distros use this).
+
+2. Append the contents of `rose-pine.conf`, `rose-pine-dawn.conf` or `rose-pine-moon.conf` to `/etc/vconsole.conf`:
+
+```sh
+cat rose-pine.conf >> /etc/vconsole.conf
+cat rose-pine-dawn.conf >> /etc/vconsole.conf
+cat rose-pine-moon.conf >> /etc/vconsole.conf
+```
+
+3. Rebuild your initramfs
+    - For `dracut`, run `sudo dracut -i --force`
+    - For `mkinitcpio`, run `sudo mkinitcpio -P`
+
+### Userspace
+
+Append the contents of `rose-pine.sh`, `rose-pine-dawn.sh` or `rose-pine-moon.sh` contents to your login shell's config:
 
 **bash**
 
@@ -55,11 +73,12 @@ Fetch featured below is [NerdFetch](https://github.com/ThatOneCalculator/nerdfet
 
 ## Contributing
 
-Modify `template.sh` using Rosé Pine variables, then build variants:
+Modify `template.sh` and/or `template.conf` using Rosé Pine variables, then build variants:
 
 <!-- #rose-pine-build -->
 
 ```sh
+npx @rose-pine/build@0.9.1 -t template.conf -f hex-ns
 npx @rose-pine/build@0.9.1 -t template.sh -f hex-ns
 ```
 
