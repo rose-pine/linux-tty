@@ -29,6 +29,12 @@ cat rose-pine-moon.conf >> /etc/vconsole.conf
     - For `dracut`, run `sudo dracut -i --force`
     - For `mkinitcpio`, run `sudo mkinitcpio -P`
 
+
+### System-wide (as kernel argument)
+if you want your pretty colors *before* userspace, you can set colors as a kernel cmdline option
+```sh 
+python3 template-kargs.py dist/rose-pine.conf >> /etc/cmdline`
+```
 ### Userspace
 
 Append the contents of `rose-pine.sh`, `rose-pine-dawn.sh` or `rose-pine-moon.sh` contents to your login shell's config:
