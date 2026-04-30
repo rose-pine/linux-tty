@@ -31,10 +31,13 @@ cat rose-pine-moon.conf >> /etc/vconsole.conf
 
 
 ### System-wide (as kernel argument)
-if you want your pretty colors *before* userspace, you can set colors as a kernel cmdline option
+
+To apply _before_ userspace, you can set colors as a kernel cmdline option:
+
 ```sh 
 python3 template-kargs.py dist/rose-pine.conf >> /etc/cmdline`
 ```
+
 ### Userspace
 
 Append the contents of `rose-pine.sh`, `rose-pine-dawn.sh` or `rose-pine-moon.sh` contents to your login shell's config:
